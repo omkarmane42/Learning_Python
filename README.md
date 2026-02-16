@@ -53,7 +53,7 @@ print("-" * 36)
 -----------------------------------
 |3         |   Sakshi   |    95    |
 ------------------------------------
-```
+
 
 ## Additional Python Practice Programs
 
@@ -65,7 +65,7 @@ This program demonstrates various string slicing operations in Python, including
 - Step size slicing
 - Reverse string operations
 
-**File:** 
+**File:** [python-string-slicing-practice.py](https://github.com/omkarmane42/Learning_Python/blob/main/python-string-slicing-practice.py)
 
 The program is designed for learning and practicing Python string manipulation concepts.
 
