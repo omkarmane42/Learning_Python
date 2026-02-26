@@ -71,6 +71,49 @@ The program is designed for learning and practicing Python string manipulation c
 
 This program is part of my Learning_Python repository.
 
+---
+### 3 Python List append() Method Practice
+
+This repository contains beginner-friendly Python practice programs that
+demonstrate different uses of the `list.append()` method.
+
+The goal of this practice is to understand how elements can be added to a
+Python list using various scenarios.
+
+
+## 📌 Topics Covered
+
+- Append integer, string, float, and boolean values to a list
+- Append multiple values using a loop
+- Append elements from one list to another list
+- Append a list inside another list (nested list)
+- Append characters of a string to a list
+- Append the length of strings to a list
+- Append user-entered values to a list
+
+---
+
+## 🧠 Concepts Used
+
+- Python Lists
+- `append()` method
+- `for` loop
+- `range()`
+- `len()`
+- User input (`input()`)
+
+---
+
+---
+
+## 🔗 Practice File Link
+
+- 👉 [append_method.py](list-methods/append_method.py)
+
+> Click the link above to view the Python practice program.
+
+---
+
 
 
 
